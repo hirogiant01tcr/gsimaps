@@ -16,7 +16,19 @@
           "cocotile": true,
           "legendUrl": "http://maps.gsi.go.jp/development/ichiran.html#std",
           "html": "<a href='https://github.com/foss4g-tokyo-vt/gsimaps/edit/gh-pages/layers_txt/my_layers.txt'>編集</a>"
+        },
+        {
+          "type": "Layer",
+          "id": "exsample231",
+          "title": "代々木上原駅からfoss4g会場",
+          "url": "http://foss4g-tokyo-vt.github.io/gsimaps/exsample231/{z}/{x}/{y}.geojson",
+          "html": "<a href='https://github.com/foss4g-tokyo-vt/gsimaps/edit/gh-pages/layers_txt/my_layers.txt'>編集</a>",
+          "maxZoom":18,
+          "maxNativeZoom":2
         }
+        
+        
+        
      ]
     }
   ]
