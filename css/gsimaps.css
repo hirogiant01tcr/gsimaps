@@ -3909,3 +3909,14 @@ form {
 .gsi_onoffswitch_visible .on_label_switch {
     right: 0; 
 }
+
+
+
+#title_logo_upper{
+	
+   text-align:center;
+   font-size:12px;
+   color:#fff;
+   line-height:12px;
+	
+}
